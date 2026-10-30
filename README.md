@@ -55,7 +55,7 @@ graph LR
 
 ## Estado y límites
 
-En la etapa E8-D, con el pipeline de voz verificado en el host y el recorrido completo probado en el teléfono. Lo que falta y lo que no funciona está escrito en `docs/LIMITATIONS.md`, incluyendo cuánto se calienta el dispositivo y qué pasa cuando la red se corta a media frase.
+En la etapa E8-D, con el pipeline de voz verificado en el host y el recorrido completo probado en el teléfono. Lo que falta está apuntado con nombre y apellido: el dispositivo aún no queda montado de forma permanente, la reconexión a media frase sigue dando guerra y el teléfono se calienta cuando lo dejas escuchando mucho rato. Nada de eso está escondido en el proyecto, es la lista de trabajo que sigue.
 
 ## Sobre el código
 
